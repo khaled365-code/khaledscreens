@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My clinicjop</string>
+    <string name="advertisment">Need a doctor?</string>
+    <string name="advertisment2">Book online or call us to help you</string>
+    <string name="city">Your City:</string>
+    <string name="diseases">have chronic diseases?</string>
+    <string name="surgeries">Had surgeries before?</string>
+    <string name="hisrory">Have medical history?</string>
+    <string name="fees">maximum fees?</string>
+    <string name="speciality">Speciality</string>
+    <string name="specialityname">Write Speciality</string>
+    <string name="cityname">Enter Your City</string>
+    <string name="check1">Yes</string>
+    <string name="check2">No</string>
+    <string name="price">Write Number</string>
+    <string name="button1">Supmit</string>
+    <string name="address1">Write your area:</string>
+    <string name="addressquestion">or access your location?</string>
+    <string name="choose">choose clinic</string>
+
+
+</resources>
